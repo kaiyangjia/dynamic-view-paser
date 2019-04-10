@@ -1,0 +1,1 @@
+include ':app', ':dynamicviewpaser_lib'

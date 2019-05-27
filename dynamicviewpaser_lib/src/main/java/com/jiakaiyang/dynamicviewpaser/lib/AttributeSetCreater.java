@@ -28,4 +28,7 @@ public class AttributeSetCreater {
         }
 
     }
+
+    public static void test() {
+    }
 }

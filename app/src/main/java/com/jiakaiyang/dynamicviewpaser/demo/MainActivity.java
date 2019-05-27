@@ -3,7 +3,7 @@ package com.jiakaiyang.dynamicviewpaser.demo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.jiakaiyang.dynamicviewpaser.R;
+import com.jiakaiyang.dynamicviewpaser.demo.R;
 import com.jiakaiyang.dynamicviewpaser.lib.AttributeSetCreater;
 
 public class MainActivity extends AppCompatActivity {

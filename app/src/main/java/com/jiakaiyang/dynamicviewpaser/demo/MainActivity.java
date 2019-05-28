@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void init() {
-        AttributeSetCreater.createParser();
+        AttributeSetCreater.test();
     }
 }
